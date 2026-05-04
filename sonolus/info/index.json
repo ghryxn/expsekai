@@ -1,8 +1,7 @@
 {
     "title": "EXPSekai-",
     "description": "The evolution of Project Sekai in Sonolus.",
-    "buttons": [],
-    "configuration": {
-        "options": []
-    }
+    // buttons, configuration, and banner seems not to be supported here as once put, will break
+    // excluding "buttons = []" "configuration = []" "banner = []"
+    // if kept empty will not break
 }
