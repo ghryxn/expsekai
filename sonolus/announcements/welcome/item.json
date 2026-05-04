@@ -1,11 +1,18 @@
 {
-  "name": "welcome",
-  "version": 1,
-  "title": "Welcome",
-  "subtitle": "first post",
-  "author": "luno",
-  "description": {
-    "type": "markdown",
-    "value": "# hi\nthis is your announcement"
-  }
+  "pageCount": 1,
+  "items": [
+    {
+      "name": "welcome",
+      "version": 1,
+      "title": {
+        "type": "text",
+        "value": "Welcome to EXPSekai!"
+      },
+      "subtitle": {
+        "type": "text",
+        "value": "Start here"
+      },
+      "author": "EXPSekai"
+    }
+  ]
 }
