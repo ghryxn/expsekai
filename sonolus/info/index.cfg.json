@@ -1,21 +1,8 @@
 {
   "title": "EXPSekai",
   "description": "The evolution of Project Sekai in Sonolus.",
-  "buttons": [
-    {
-      "type": "configuration",
-      "title": "Configuration"
-    }
-  ],
+  "buttons": [],
   "configuration": {
-    "options": [
-      {
-        "name": "enableSpooning",
-        "type": "toggle",
-        "title": "Enable Spooning",
-        "default": false,
-        "description": "Enables you to spoon a level drastically improving level performance"
-      }
-    ]
+    "options": []
   }
 }
