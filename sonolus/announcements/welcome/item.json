@@ -1,1 +1,11 @@
-
+{
+  "name": "welcome",
+  "version": 1,
+  "title": "Welcome",
+  "subtitle": "first post",
+  "author": "luno",
+  "description": {
+    "type": "markdown",
+    "value": "# hi\nthis is your announcement"
+  }
+}
