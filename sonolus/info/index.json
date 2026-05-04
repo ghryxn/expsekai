@@ -1,8 +1,15 @@
 {
-  "title": "EXPSekai",
-  "description": "The evolution of Project Sekai in Sonolus.",
-  "buttons": [],
-  "configuration": {
-    "options": []
-  }
+    "title": "EXPSekai-",
+    "description": "The evolution of Project Sekai in Sonolus.",
+    "buttons": [
+        // when kept empty, works perfectly but when something is added breaks server entirely
+    ],
+    "configuration": {
+        "options": [
+            // same as buttons
+        ]
+    },
+    "banner": {
+        // i dont know how to configure this one
+    }
 }
