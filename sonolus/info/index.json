@@ -1,8 +1,8 @@
 {
-    "title": "EXPSekai-",
-    "description": "The evolution of Project Sekai in Sonolus.",
-    "buttons": [],
-    "configuration": [
-        options: []
-    ]
+  "title": "EXPSekai",
+  "description": "The evolution of Project Sekai in Sonolus.",
+  "buttons": [],
+  "configuration": {
+    "options": []
+  }
 }
