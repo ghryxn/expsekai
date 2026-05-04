@@ -1,22 +1,7 @@
 {
-  "title": {
-    "type": "text",
-    "value": "EXPSekai"
-  },
-  "description": {
-    "type": "text",
-    "value": "The evolution of Project Sekai in Sonolus."
-  },
-  "buttons": [
-    {
-      "type": "announcements",
-      "title": {
-        "type": "text",
-        "value": "Start"
-      },
-      "default": true
-    }
-  ],
+  "title": "EXPSekai",
+  "description": "The evolution of Project Sekai in Sonolus.",
+  "buttons": [],
   "configuration": {
     "options": []
   }
