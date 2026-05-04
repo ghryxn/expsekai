@@ -1,3 +1,8 @@
 {
-    "message":"EXPSekai hasn't been launched yet. Try charts.expsekai.com."
+    "title": "EXPSekai-",
+    "description": "The evolution of Project Sekai in Sonolus.",
+    "buttons": [],
+    "configuration": {
+        "options": []
+    }
 }
