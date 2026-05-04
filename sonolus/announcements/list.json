@@ -7,6 +7,13 @@
       "title": "Welcome",
       "subtitle": "first post",
       "author": "luno"
+    },
+    {
+      "name": "update1",
+      "version": 1,
+      "title": "New Update",
+      "subtitle": "small changes",
+      "author": "luno"
     }
   ]
 }
