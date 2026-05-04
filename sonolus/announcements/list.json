@@ -4,16 +4,15 @@
     {
       "name": "welcome",
       "version": 1,
-      "title": "Welcome",
-      "subtitle": "first post",
-      "author": "luno"
-    },
-    {
-      "name": "update1",
-      "version": 1,
-      "title": "New Update",
-      "subtitle": "small changes",
-      "author": "luno"
+      "title": {
+        "type": "text",
+        "value": "Welcome to EXPSekai!"
+      },
+      "subtitle": {
+        "type": "text",
+        "value": "Start here"
+      },
+      "author": "EXPSekai"
     }
   ]
 }
