@@ -1,1 +1,8 @@
-
+{
+  "title": "My Server",
+  "description": "just announcements",
+  "buttons": [],
+  "configuration": {
+    "options": []
+  }
+}
