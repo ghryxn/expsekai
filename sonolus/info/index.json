@@ -2,9 +2,8 @@
   "version": 2,
   "name": "EXPSekai",
   "description": "Unfortunately, Exponent Sekai is announcing its sunset. We don't want to get sued. -ryxn 5.5.26",
-  "levels": [],
-  "skins": [],
-  "backgrounds": [],
-  "effects": [],
-  "particles": []
+  "buttons": [],
+  "configuration": {
+    "options": []
+  }
 }
